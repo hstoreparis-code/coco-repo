@@ -1,0 +1,8 @@
+[LLM ERROR] 
+Generate a comprehensive .gitignore file for a project using: Generic
+
+File extensions detected: pdf
+
+Include common ignores for:
+- IDE files (VSCode, IntelliJ, etc.)
+- OS files (macOS, Windows, Linu...
