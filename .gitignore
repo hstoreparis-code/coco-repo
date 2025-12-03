@@ -1,0 +1,53 @@
+```
+# IDE Files
+.vscode/
+.idea/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Build Artifacts
+/build/
+/dist/
+*.o
+*.class
+*.exe
+*.out
+*.apk
+*.ipa
+*.log
+
+# Dependency Folders
+/node_modules/
+/vendor/
+/bower_components/
+/packages/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# User-specific files
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Images and Document Files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+```
